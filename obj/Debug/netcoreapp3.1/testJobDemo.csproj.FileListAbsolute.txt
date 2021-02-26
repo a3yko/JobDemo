@@ -1,0 +1,11 @@
+C:\Users\a3yko\source\repos\testJobDemo\bin\Debug\netcoreapp3.1\testJobDemo.exe
+C:\Users\a3yko\source\repos\testJobDemo\bin\Debug\netcoreapp3.1\testJobDemo.deps.json
+C:\Users\a3yko\source\repos\testJobDemo\bin\Debug\netcoreapp3.1\testJobDemo.runtimeconfig.json
+C:\Users\a3yko\source\repos\testJobDemo\bin\Debug\netcoreapp3.1\testJobDemo.runtimeconfig.dev.json
+C:\Users\a3yko\source\repos\testJobDemo\bin\Debug\netcoreapp3.1\testJobDemo.dll
+C:\Users\a3yko\source\repos\testJobDemo\bin\Debug\netcoreapp3.1\testJobDemo.pdb
+C:\Users\a3yko\source\repos\testJobDemo\obj\Debug\netcoreapp3.1\testJobDemo.csprojAssemblyReference.cache
+C:\Users\a3yko\source\repos\testJobDemo\obj\Debug\netcoreapp3.1\testJobDemo.AssemblyInfoInputs.cache
+C:\Users\a3yko\source\repos\testJobDemo\obj\Debug\netcoreapp3.1\testJobDemo.AssemblyInfo.cs
+C:\Users\a3yko\source\repos\testJobDemo\obj\Debug\netcoreapp3.1\testJobDemo.dll
+C:\Users\a3yko\source\repos\testJobDemo\obj\Debug\netcoreapp3.1\testJobDemo.pdb
